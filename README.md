@@ -1,9 +1,13 @@
 # Kit Relance Impayés Freelance
 
+> **Migrated to** https://github.com/Benjamin-de-Pourquery/freelance-invoice-chase-kit  
+> Canonical EN-named repo. This Nazruden repo is kept for history — **do not delete** without confirmation. See also [issue #1](https://github.com/Nazruden/kit-relance-impayes-freelance/issues/1).
+
 Pack digital **19 €** (Stripe TEST) pour freelances : templates emails / courrier, checklist, tracker CSV.
 
 **Site :** https://kit-relance-impayes-freelance.vercel.app  
-**Repo :** https://github.com/Nazruden/kit-relance-impayes-freelance
+**Repo (canonical):** https://github.com/Benjamin-de-Pourquery/freelance-invoice-chase-kit  
+**Repo (legacy):** https://github.com/Nazruden/kit-relance-impayes-freelance
 
 ## Fonctionnalités (v1.1)
 
